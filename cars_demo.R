@@ -6,4 +6,3 @@ data("mtcars")
 
 #view data
 View(mtcars)
-
